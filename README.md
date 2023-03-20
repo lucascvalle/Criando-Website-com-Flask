@@ -3,20 +3,20 @@ Neste repositório vamos criar um site do Zero usando o Framework Flask
 
 ## Instalação
 Para começar a construir o website, você precisará instalar o Flask em seu ambiente de desenvolvimento. Você pode fazer isso usando o gerenciador de pacotes pip:
-'''
+````
 pip install Flask
-'''
+````
 
 Se você quiser instalar as dependências de uma só vez, use o arquivo requirements.txt incluído neste repositório:
-'''
+````
 pip install -r requirements.txt
-'''
+````
 ## Executando o aplicativo
 
 Após instalar o Flask, você pode executar o aplicativo usando o seguinte comando:
-'''
+````
 python app.py
-'''
+````
 Isso iniciará o servidor de desenvolvimento e poderá acessar o website localmente em http://localhost:5000.
 
 ## Contribuindo
