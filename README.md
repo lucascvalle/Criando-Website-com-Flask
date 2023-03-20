@@ -1,5 +1,11 @@
 # Criando-Website-com-Flask
-Neste repositório vamos criar um site do Zero usando o Framework Flask
+Este repositório contém um projeto de construção de um website a partir do zero usando o Framework Flask, uma estrutura web em Python. Flask é uma ótima opção para construir sites pequenos e médios, e também é bastante flexível e fácil de usar.
+
+## Pré-requisitos
+Antes de começar a trabalhar neste projeto, é necessário ter algumas ferramentas instaladas:
+
+ - Python 3
+ - Flask
 
 ## Instalação
 Para começar a construir o website, você precisará instalar o Flask em seu ambiente de desenvolvimento. Você pode fazer isso usando o gerenciador de pacotes pip:
