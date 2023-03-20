@@ -7,6 +7,7 @@ Antes de começar a trabalhar neste projeto, é necessário ter algumas ferramen
  - Python 3
  - Flask
 
+
 ## Instalação
 Para começar a construir o website, você precisará instalar o Flask em seu ambiente de desenvolvimento. Você pode fazer isso usando o gerenciador de pacotes pip:
 ````
