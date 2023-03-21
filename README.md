@@ -5,19 +5,16 @@ Este repositório contém um projeto de construção de um website a partir do z
 Antes de começar a trabalhar neste projeto, é necessário ter algumas ferramentas instaladas:
 
  - Python 3
+ - Pycharm
  - Flask
 
 
 ## Instalação
-Para começar a construir o website, você precisará instalar o Flask em seu ambiente de desenvolvimento. Você pode fazer isso usando o gerenciador de pacotes pip:
+Para começar a construir o website, você precisará instalar o Flask em seu ambiente de desenvolvimento. Considerando que você irá utilizar o Pycharm, este irá criar um ambiente virtual para e então será possível acessar o terminal e rodar o seguinte comando:
 ````
 pip install Flask
 ````
 
-Se você quiser instalar as dependências de uma só vez, use o arquivo requirements.txt incluído neste repositório:
-````
-pip install -r requirements.txt
-````
 ## Executando o aplicativo
 
 Após instalar o Flask, você pode executar o aplicativo usando o seguinte comando:
